@@ -1,2 +1,4 @@
 config:
   info: "config info for prod(master)"
+  signal:
+    step: 3
