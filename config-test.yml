@@ -1,2 +1,4 @@
 config:
   info: "config info for test(master)"
+   signal:
+    step: 3
